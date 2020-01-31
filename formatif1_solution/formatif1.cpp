@@ -66,13 +66,13 @@ char AfficherMenu()
 	Gotoxy(15, 6);
 	cout << "2- Afficher toutes les activites";
 	Gotoxy(15, 8);
-	cout << "3- Ajouter des eleves";
+	cout << "3- Ajouter tous les eleves";
 	Gotoxy(15, 10);
-	cout << "4- Afficher les eleves";
+	cout << "4- Afficher tous les eleves";
 	Gotoxy(15, 12);
-	cout << "5- Inscrire un eleve a une activite";
+	cout << "5- Inscrire un eleve a une certaine activite";
 	Gotoxy(15, 14);
-	cout << "6- Afficher les inscriptions d'une activite";
+	cout << "6- Afficher les inscriptions d'une certaine activite";
 	Gotoxy(15, 16);
 	cout << "0- Arreter";
 	Gotoxy(15, 18);
